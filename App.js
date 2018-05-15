@@ -6,8 +6,8 @@ export default class App extends React.Component {
     return (
       <View style={styles.container}>
         <Text>Hello</Text>
-        <Text>Welcome</Text>
-        <Text>Shake your phone to open the developer menu.</Text>
+        <Text>Welcome on NoodleDistress Mobile App</Text>
+        <Text>Be drunk to open the developer menu...</Text>
       </View>
     );
   }
